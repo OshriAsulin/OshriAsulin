@@ -2,19 +2,22 @@
 
 <h1 align="center">Hi 👋, I'm Oshri Asulin</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshriasulin&label=Profile%20views&color=0e75b6&style=flat" alt="oshriasulin" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN, Python, React, JS**
+- 💬 Ask me about **MERN, Python, REACT, JS**
+
+- 📫 How to reach me **oshriasulin10@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oshri asulin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshri asulin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oshri-asulin-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oshri-asulin-dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
