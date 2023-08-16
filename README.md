@@ -31,6 +31,6 @@
 
 <h4>Accomplishments:</h4>
 <ul>
+  <li>Sharkio contribute <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>my contributions</a> </li>
   <li>Overlay contrinute</li>
-  <li>Sharkio contrinute</li>
 </ul>
