@@ -32,5 +32,6 @@
 <h4>Accomplishments:</h4>
 <ul>
   <li>Sharkio contribute <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>my contributions</a> </li>
-  <li>Overlay contrinute</li>
+  <li>Overlay extension at Checkmarx contributions <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>my contributions</a> </li>
+
 </ul>
