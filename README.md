@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshriasulin&show_icons=true&locale=en" alt="oshriasulin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshriasulin&" alt="oshriasulin" /></p>
+
+<h4>Accomplishments:</h4>
+<ul>
+  <li>Overlay contrinute</li>
+  <li>Sharkio contrinute</li>
+</ul>
