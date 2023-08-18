@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif) -->
 
 <h1 align="center">Hi 👋, I'm Oshri Asulin</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer & Open source enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshriasulin&" alt="oshriasulin" /></p>
 
-<h4>Accomplishments:</h4>
+<h4>Contributions to open source:</h4>
 <ul>
   <li>Sharkio contribute <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>my contributions</a> </li>
   <li>Overlay extension at Checkmarx contributions <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>my contributions</a> </li>
