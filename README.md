@@ -32,6 +32,7 @@
 <h4>Contributions to open source:</h4>
 <ul>
   <li>Sharkio contribute <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>my contributions</a> </li>
-  <li>Overlay extension at Checkmarx contributions <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>my contributions</a> </li>
+  <li>Overlay extension at Checkmarx <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>my contributions</a> </li>
+  <li>Trigger.dev fraemework <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>my contributions</a> </li>
 
 </ul>
