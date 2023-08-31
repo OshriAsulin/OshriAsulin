@@ -29,10 +29,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshriasulin&" alt="oshriasulin" /></p>
 
-<h4>Contributions to open source:</h4>
-<ul>
-  <li>Sharkio contribute <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>my contributions</a> </li>
-  <li>Overlay extension at Checkmarx <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>my contributions</a> </li>
-  <li>Trigger.dev fraemework <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>my contributions</a> </li>
+## Open Source Contributions
 
-</ul>
+I'm passionate about contributing to open source projects. Here are some of my notable contributions:
+
+- **Sharkio**
+  - Description: An open source project for [describe what Sharkio is or does].
+  - <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>My Contributions</a>
+- **Overlay Extension at Checkmarx**
+  - Description: An extension for [describe what the extension does].
+  - <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>My Contributions</a>
+- **Trigger.dev Framework**
+  - Description: A framework for [describe the purpose of the framework].
+  - <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>My Contributions</a>
+
+Feel free to explore these projects and my contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
