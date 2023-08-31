@@ -34,13 +34,13 @@
 I'm passionate about contributing to open source projects. Here are some of my notable contributions:
 
 - **Sharkio**
-  - Description: An open source project for [describe what Sharkio is or does].
+  - Description: Sharkio is an API proxy for your development environments.
   - <a href='https://github.com/sharkio-dev/sharkio/commits?author=OshriAsulin'>My Contributions</a>
 - **Overlay Extension at Checkmarx**
-  - Description: An extension for [describe what the extension does].
+  - Description: Overlay is a browser extension helping developers evaluate open source packages before picking them.
   - <a href='https://github.com/os-scar/overlay/commits?author=OshriAsulin'>My Contributions</a>
 - **Trigger.dev Framework**
-  - Description: A framework for [describe the purpose of the framework].
+  - Description: Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
   - <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>My Contributions</a>
 
 Feel free to explore these projects and my contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
