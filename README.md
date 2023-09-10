@@ -42,7 +42,8 @@ I'm passionate about contributing to open source projects. Here are some of my n
 - **Trigger.dev Framework**
   - Description: Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
   - <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>My Contributions</a>
+
   - **zustand**
-  - comming soon
+  - [comming soon](https://github.com/pmndrs/zustand/pull/2028/commits/12a835799b36bc7309bf5d0e266e84db53bea139)
     
 Feel free to explore these projects and my contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
