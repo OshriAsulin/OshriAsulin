@@ -51,8 +51,12 @@ I'm passionate about contributing to open source projects. Here are some of my n
 Feel free to explore these projects and my contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
 
 <!--images -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshriasulin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshriasulin&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Oshri GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oshriasulin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/oshriasulin/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oshriasulin&theme=dark)](https://git.io/streak-stats)
+
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshriasulin&show_icons=true&locale=en" alt="oshriasulin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshriasulin&" alt="oshriasulin" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshriasulin&show_icons=true&locale=en" alt="oshriasulin" /></p> -->
 
