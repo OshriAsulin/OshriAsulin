@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshriasulin&label=Profile%20views&color=0e75b6&style=flat" alt="oshriasulin" /> </p>
 
-- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN, Python, REACT, JS**
+- 💬 Ask me about **MERN, Typescript, REACT, Javascript**
 
-- 📫 How to reach me **oshriasulin10@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oshriasulin10@gmail.com)
+
 
 - ⚡ Fun fact **I am funny**
 
@@ -44,6 +44,7 @@ I'm passionate about contributing to open source projects. Here are some of my n
   - <a href='https://github.com/triggerdotdev/jobs-showcase/commits?author=OshriAsulin'>My Contributions</a>
 
 - **zustand**
-  - [comming soon](https://github.com/pmndrs/zustand/pull/2028/commits/12a835799b36bc7309bf5d0e266e84db53bea139)
+   - <a href='https://github.com/pmndrs/zustand/pull/2028/commits/12a835799b36bc7309bf5d0e266e84db53bea139'>My Contributions</a>
+
     
 Feel free to explore these projects and my contributions. If you have any questions or would like to collaborate, don't hesitate to reach out.
