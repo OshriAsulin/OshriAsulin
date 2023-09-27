@@ -36,7 +36,17 @@
 -->
     
 
-## Open Source Contributions
+## 🌟 Open to Job Opportunities
+
+I'm actively seeking new job opportunities and am passionate about achieving success in the field of full-stack development with a focus on backend technologies, particularly using Node.js.
+My commitment and full motivation drive me to excel in every project I undertake. <br/>
+If you have a position that aligns with my skills and goals, please don't hesitate to reach out to me.
+
+
+ <br/>
+ <br/>
+ 
+## My Open Source Contributions
 
 I'm passionate about contributing to open source projects. Here are some of my notable contributions:
 
